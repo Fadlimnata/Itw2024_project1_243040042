@@ -321,7 +321,6 @@ nav ul li a {
 }
 
 .portfolio {
-  border-radius: var(--itemBorderRadius);
   overflow: hidden;
   overflow: hidden; /* supaya gambar yang diatas itu dia ngikut border radiusnya, karena yang dikasih border radius disini adalah div portfolio ini */
   border: 1px solid var(--borderColor);
